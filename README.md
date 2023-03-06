@@ -7,7 +7,7 @@ An extension that improves the language-gym.com experience, made proudly by Igye
 ## Upcoming Features
 - Implementing a user-friendly Config Panel
 - Adding 0.1s accuracy to all timed games
-- Vocab Trainer Beat the Robot [custom speed]
+- Vocab Trainer: Beat the Robot [custom speed]
 - Pace Tracker for Boxing Game
 
 ## Quickstart
