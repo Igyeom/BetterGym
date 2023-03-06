@@ -1,1 +1,0 @@
-console.log("Loaded BetterGym!");document.querySelector(".btn-start").addEventListener("click", function(){let time = new Date().getTime();setInterval(function(){document.querySelector(".timer").innerHTML=((new Date().getTime()-time).toString().slice(0,-2)/10).toFixed(1)})},100)
