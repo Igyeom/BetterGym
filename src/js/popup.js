@@ -1,0 +1,1 @@
+const send=(s)=>{chrome.tabs.query({active:true,currentWindow:true},(tabs)=>{chrome.tabs.sendMessage(tabs[0].id,s)})};document.querySelector("#vocab_hack").addEventListener("click",function(){send("robot_hack")});document.querySelector("#boxing_hack").addEventListener("click",function(){send("boxing_hack")})
