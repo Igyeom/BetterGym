@@ -3,10 +3,10 @@ An extension that improves the language-gym.com experience, made proudly by Igye
 
 ## Current Features
 - Added 0.1s accuracy to Vocab Trainer: Beat the Robot
-- Game Room Hack
+- Implementing a user-friendly Config Panel
+- Hacks (shown when clean mode is off)
 
 ## Upcoming Features
-- Implementing a user-friendly Config Panel
 - Adding 0.1s accuracy to all timed games
 - Vocab Trainer: Beat the Robot [custom speed]
 - Pace Tracker for Boxing Game
