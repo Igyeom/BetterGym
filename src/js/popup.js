@@ -9,9 +9,9 @@ const send = (s) => {
 document.querySelector("#vocab_hack").addEventListener("click", function () {
     send("vocab_hack")
 });
-/*
+
 document.querySelector("#boxing_hack").addEventListener("click", function () {
-    send("boxing_hack")
+    send(prompt("Set score to..."))
 });
 document.querySelector("#timer_acc").addEventListener("click", function () {
     if (document.querySelector("#timer_acc").style.color == "coral") {
@@ -20,7 +20,7 @@ document.querySelector("#timer_acc").addEventListener("click", function () {
         document.querySelector("#timer_acc").style.color = "coral"
     } send("timer_acc")
 });
-*/
+
 document.querySelector("#clean_mode").addEventListener("click", function () {
     if (document.querySelector("#clean_mode").style.color == "coral") {
         document.querySelector("#clean_mode").style.color = "lightgreen"

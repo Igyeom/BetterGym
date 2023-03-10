@@ -5,16 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BetterGym Config</title>
-    <style>@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');body{background: #111; color: white; font-family:Roboto,Arial}input{background: #222; border: white; color: white; font-family:Roboto,Arial; cursor: pointer;}</style>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');body{background: #111; color: white; font-family:Roboto,Arial}button{background: #222; border: white; color: white; font-family:Roboto,Arial; cursor: pointer;}</style>
 </head>
 <body>
     <h1>BetterGym Config</h1>
     <h2>Good day to you~</h2>
     <h2>Check out <a href="https://ians.site" style="color: #ccc;">ians.site</a>!</h2>
-    <input type="button" value="Toggle Clean Mode" style="color: lightgreen" id="clean_mode">
-    <input type="button" value="Vocab Trainer Hack" id="vocab_hack" class="hack" hidden>
-    <input type="button" value="Boxing Game Hack [DOES NOT WORK]" id="boxing_hack" class="hack" style="color: red; cursor: not-allowed;" hidden disabled>
-    <input type="button" value="Toggle Timer Accuracy" style="color: lightgreen; cursor: not-allowed;" id="timer_acc">
+    <button style="color: lightgreen" id="clean_mode">Toggle Clean Mode</button>
+    <button id="vocab_hack" class="hack" hidden>Vocab Trainer Hack</button>
+    <button id="boxing_hack" class="hack" hidden>Boxing Game Hack</button>
+    <button style="color: lightgreen; background: #555; cursor: not-allowed;" id="timer_acc">Toggle Timer Accuracy (WIP)</button>
     <script src="../js/popup.js"></script>
 </body>
 </html>
