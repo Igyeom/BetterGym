@@ -1,6 +1,6 @@
 # BetterGym
 
-https://github.com/Igyeom/BetterGym/raw/main/BetterGym.mp4
+https://ians.site/cdn/BetterGym.mp4
 
 An extension that improves the language-gym.com experience, made proudly by Igyeom "Ian" Park (ians.site) :D
 
