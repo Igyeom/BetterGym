@@ -1,6 +1,6 @@
 # BetterGym
 
-https://user-images.githubusercontent.com/61957594/231713975-ce6a8021-ccc7-4f5c-8917-df2880a2f41c.mp4
+https://user-images.githubusercontent.com/61957594/231714159-9e798857-c8b5-4ddc-a715-9c9f39fee6fd.mp4
 
 An extension that improves the language-gym.com experience, made proudly by Igyeom "Ian" Park (ians.site) :D
 
