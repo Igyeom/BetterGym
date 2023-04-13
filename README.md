@@ -1,6 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="BetterGym.mp4" type="video/mp4">
-</video>
+https://github.com/Igyeom/BetterGym/raw/main/BetterGym.mp4
 
 # BetterGym
 An extension that improves the language-gym.com experience, made proudly by Igyeom "Ian" Park (ians.site) :D
